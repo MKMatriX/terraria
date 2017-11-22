@@ -1,0 +1,1964 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"pointToPx"
+			],
+			[
+				"B",
+				"BLOCK_SIZE"
+			],
+			[
+				"dra",
+				"draw"
+			],
+			[
+				"b",
+				"blocks"
+			],
+			[
+				"co",
+				"constructor"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"err",
+				"error〔variable〕"
+			],
+			[
+				"addE",
+				"addError"
+			],
+			[
+				"erro",
+				"errorsBlock"
+			],
+			[
+				"text",
+				"textContainer〔variable〕"
+			],
+			[
+				"END",
+				"ENDS_ENDING_IBLOCK_ID〔constant〕"
+			],
+			[
+				"arE",
+				"$arElement〔variable〕"
+			],
+			[
+				"bx_cib",
+				"bx_ciblockElement.GetList\telement.GetList"
+			],
+			[
+				"UF_",
+				"UF_STATUS_USER_ID"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"SO",
+				"SORT"
+			],
+			[
+				"arV",
+				"$arValues〔variable〕"
+			],
+			[
+				"ht",
+				"htmlspecialcharsbx\tBitrix API"
+			],
+			[
+				"in",
+				"intval"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"PRE",
+				"PREVIEW_COUNT"
+			],
+			[
+				"_REQU",
+				"$_REQUEST〔variable〕"
+			],
+			[
+				"arPa",
+				"$arParams〔variable〕"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"arFil",
+				"$arFilter〔variable〕"
+			],
+			[
+				"array_me",
+				"array_merge_recursive"
+			],
+			[
+				"array_",
+				"array_combine"
+			],
+			[
+				"click",
+				"clicked"
+			],
+			[
+				"se",
+				"setPrice"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"pa",
+				"parseFloat"
+			],
+			[
+				"da",
+				"data-price"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"c",
+				"click\tdelegate click"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"fi",
+				"fillForm"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"bx_aj",
+				"bx_ajax_rpc\tajax_rpc_php"
+			],
+			[
+				"de",
+				"deleteFriend"
+			],
+			[
+				"FRI",
+				"FRIEND_ONLINE"
+			],
+			[
+				"d7",
+				"d7_expressionField\td7 expression"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"USER",
+				"USER_ID"
+			],
+			[
+				"ar",
+				"arSelect"
+			],
+			[
+				"Lo",
+				"LocalRedirect\tBitrix API"
+			],
+			[
+				"bx",
+				"bx_ajax_rpc\tajax_rpc_js"
+			],
+			[
+				"36000",
+				"36000000"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"BLO",
+				"BLOG_IBLOCK_ID〔constant〕"
+			],
+			[
+				"str_re",
+				"str_replace〔function〕"
+			],
+			[
+				"sh",
+				"switch\tswitch …"
+			],
+			[
+				"arRes",
+				"$arResult〔variable〕"
+			],
+			[
+				"bx_cin",
+				"bx_ciblockElement.GetList\telement.GetList"
+			],
+			[
+				"bx_in",
+				"bx_include_module\tincludeModule"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"class",
+				"className〔variable〕"
+			],
+			[
+				"arR",
+				"arReturn"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"sub",
+				"sublime〔module〕"
+			],
+			[
+				"su",
+				"sublime〔module〕"
+			],
+			[
+				"inde",
+				"indentSymbol"
+			],
+			[
+				"li",
+				"lineContents〔variable〕"
+			],
+			[
+				"bx_",
+				"bx_ciblockElement_update\telement.update"
+			],
+			[
+				"COMM",
+				"COMMENT_IBLOCK_ID〔constant〕"
+			],
+			[
+				"IB",
+				"IBLOCK_ID"
+			],
+			[
+				"DEMO",
+				"DEMOTIVATOR_IBLOCK_ID〔constant〕"
+			],
+			[
+				"bx_ci",
+				"bx_ciblockElement.GetList\telement.GetList"
+			],
+			[
+				"rece",
+				"recentChats"
+			],
+			[
+				"user",
+				"userId〔variable〕"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"ca",
+				"canLoad"
+			],
+			[
+				"chat",
+				"chatId"
+			],
+			[
+				"rq",
+				"rqMore"
+			],
+			[
+				"me",
+				"messages"
+			],
+			[
+				"lo",
+				"loadHistory"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"r",
+				"r_bind\tbind"
+			],
+			[
+				"undefi",
+				"undefined〔keyword〕"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"Me",
+				"MESSAGE"
+			],
+			[
+				"C",
+				"CHAT_ID"
+			],
+			[
+				"cons",
+				"console〔variable〕"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"lis",
+				"list〔variable〕"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"r_",
+				"r_component\tnew component"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"cl",
+				"cl\tconsole.log"
+			],
+			[
+				"construncti",
+				"constructor〔function〕"
+			],
+			[
+				"ne",
+				"newMesssage"
+			],
+			[
+				"dele",
+				"delete〔keyword〕"
+			],
+			[
+				"mess",
+				"messageId"
+			],
+			[
+				"RE",
+				"RECIPIENT_ID"
+			],
+			[
+				"SE",
+				"SEND_MESSAGE"
+			],
+			[
+				"ch",
+				"chatId"
+			],
+			[
+				"cloneS",
+				"cloneState〔function〕"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"u",
+				"userId"
+			],
+			[
+				"send",
+				"sendMessage"
+			],
+			[
+				"retunr",
+				"return〔keyword〕"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"messa",
+				"messages〔variable〕"
+			],
+			[
+				"cha",
+				"chatId"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"def",
+				"defaultStore"
+			],
+			[
+				"di",
+				"dispatch"
+			],
+			[
+				"Cha",
+				"ChatItem〔variable〕"
+			],
+			[
+				"Ch",
+				"ChatListTemplate"
+			],
+			[
+				"fou",
+				"foundUsers"
+			],
+			[
+				"P",
+				"Provider"
+			],
+			[
+				"bx_add",
+				"bx_cuserAddMe\taddMe"
+			],
+			[
+				"bx_ajax",
+				"bx_ajax_check\tajax call check"
+			],
+			[
+				"R",
+				"ReactDOM"
+			],
+			[
+				"win",
+				"window〔variable〕"
+			],
+			[
+				"undefine",
+				"undefined〔keyword〕"
+			],
+			[
+				"new",
+				"newView〔variable〕"
+			],
+			[
+				"Bt",
+				"BtnMain"
+			],
+			[
+				"aC",
+				"activeChat"
+			],
+			[
+				"ob",
+				"obToArray"
+			],
+			[
+				"th",
+				"thisRc"
+			],
+			[
+				"nex",
+				"nextProps"
+			],
+			[
+				"set",
+				"setCallback"
+			],
+			[
+				"sear",
+				"searchInput"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1278,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 233,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"mp",
+				"My pretify"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"ss",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sspt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"ignore",
+				"git: ignore current file"
+			],
+			[
+				"gitgu",
+				"Preferences: GitGutter Key Bindings"
+			],
+			[
+				"gitgutt",
+				"Preferences: GitGutter Key Bindings"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"MP",
+				"My pretify"
+			],
+			[
+				"my",
+				"My pretify"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"mypr",
+				"My pretify"
+			],
+			[
+				"myp",
+				"My pretify"
+			],
+			[
+				"rrse",
+				"RegReplace: Show Edit Panel"
+			],
+			[
+				"rrcp",
+				"RegReplace: Show Edit Panel"
+			],
+			[
+				"rrsep",
+				"RegReplace: Show Edit Panel"
+			],
+			[
+				"reg",
+				"RegReplace: Show Edit Panel"
+			],
+			[
+				"regrepse",
+				"Preferences: Reg Replace Settings – User"
+			],
+			[
+				"regr",
+				"RegReplace: Delete Regular Expression Rule"
+			],
+			[
+				"regre",
+				"RegReplace: Edit Regular Expression Rule"
+			],
+			[
+				"rr",
+				"RegReplace: Create New Regular Expression Rule"
+			],
+			[
+				"sshas",
+				"Set Syntax: Haskell"
+			],
+			[
+				"ssjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"pcip ",
+				"Package Control: Install Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"pcdp",
+				"Package Control: Disable Package"
+			],
+			[
+				"gist: ",
+				"Gist: Change Gist Description"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"ipac",
+				"Package Control: Install Package"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pace up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"git commit all",
+				"git: commit including unstaged files"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa c ",
+				"Package Control: Install Package"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				":js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":reg",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"ins pa",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"spli",
+				"Text Pastry: Split selection"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"conso",
+				"Snippet: console.log"
+			],
+			[
+				"1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"text",
+				"Text Pastry: Menu"
+			],
+			[
+				"nu",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"Snippet: ",
+				"Snippet: int"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git commit",
+				"git: commit including unstaged files"
+			],
+			[
+				"sftp:",
+				"SFTP: Download File"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git diff in",
+				"git: diff current file inline"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git: add",
+				"Git: Add All"
+			],
+			[
+				"git diff i",
+				"git: diff current file inline"
+			],
+			[
+				"gitsa",
+				"GitSavvy: enable logging"
+			],
+			[
+				"git: co",
+				"Git: Commit"
+			],
+			[
+				"git: sta",
+				"Git: Status"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ig",
+				"Package Control: Disable Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"git: cus",
+				"Git: Custom Command"
+			],
+			[
+				"git:",
+				"Git: Fetch"
+			],
+			[
+				"snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"fil",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			]
+		],
+		"width": 676.0
+	},
+	"console":
+	{
+		"height": 312.0,
+		"history":
+		[
+			"import commands",
+			"os.system('echo asd')",
+			"subprocess.call(\"echo Hello World\", shell=True)",
+			"import subprocess",
+			"subprocess.call(\"echo Hello World\", shell=True)",
+			"os.system('ls')",
+			"os.system('ls').read()",
+			"os.popen(\"echo Hello World\").read()",
+			"os.popen(\"echo Hello World\")",
+			"os.popen(\"echo Hello World\").read()",
+			"print(os.popen(\"echo Hello World\").read())",
+			"print os.popen(\"echo Hello World\").read()",
+			"os.system('ls')",
+			"os.system('cd ..')",
+			"os.system('echo \"asd\"')",
+			"os.system('ls')",
+			"os.systen('ls')",
+			"import os",
+			"os.systen('ls')",
+			"print(call([\"echo\", \"'asd'\"]))",
+			"echo call([\"echo\", \"'asd'\"])",
+			"call([\"echo\", \"'asd'\"])",
+			"call([\"echo 'asd'\", \"'asd'\"])",
+			"call([\"echo 'asd'\"])",
+			"call([\"echo 'asd'\", \"'asd'\"])",
+			"call([\"echo\", \"'asd'\"])",
+			"call([\"echo\", \"asd\"])",
+			"call([\"ls\", \"-l\"])",
+			"call('ls','-1')",
+			"call('ls')",
+			"from subprocess import call",
+			"print (view.scope_name(view.sel()[0].b))",
+			"view.run_command(\"goto_line\", {\"line\": 10})",
+			":!echo 123",
+			"echo 123",
+			"echo asd",
+			"print (view.scope_name(view.sel()[0].b))",
+			"print (view.scope(view.sel()[0].b))",
+			"print (view.syntax(view.sel()[0].b))",
+			"print (view.syntax_name(view.sel()[0].b))",
+			" print (view.syntax_name(view.sel()[0].b))",
+			"print (view.sel()[0].b)",
+			"print (view.syntax_name(view.sel()[0].b))",
+			" print (view.syntax_name(view.sel()[0].b))",
+			"asd",
+			"clr",
+			"view.run_command('omg')",
+			"view.run_command('Omg')",
+			"view.run_command('easd')",
+			"view.run_command('example')",
+			"view.run_command('omg')",
+			"view.runCommand('omg')",
+			"window.run_command('sftp_browse_path_thread')",
+			"window.run_command('browse_path_thread')",
+			"window.run_command('sftp_browse_server', {'name':'yarmap'})",
+			"window.run_command('sftp_browse_server', {name:'yarmap'})",
+			"window.run_command('sftp_browse_server')",
+			"def my_open_file(window, filename): window.open_file(filename, sublime.ENCODED_POSITION);",
+			"def my_open_file(window, filename): window.open_file(filename, sublime.ENCODED_POSITION)",
+			"def my_open_file(window, filename):",
+			"import sublime, sublime_plugin",
+			"my_open_file",
+			"window.run_command('my_open_file')",
+			"window.run_command('my_open_file', {'window':window, 'filename':'awd'})",
+			"window.run_command('my_open_file', {'window':window})",
+			"window.run_command('my_open_file', {window})",
+			"window.run_command('my_open_file')",
+			"window.active_view().file_name()",
+			"window.run_command('OpenFileByNameCommand')",
+			"window.run_command('OpenFileByName')",
+			"window.run_command('open_file_by_name')",
+			"window.run_command('sftp_browse_server', {'me': 'yarmap'})",
+			"window.run_command('sftp_browse_server', {'name': 'yarmap'})",
+			"window.open_file(\"/home/matrix/Рабочий стол/for yarmap quest/test/chat/component.php\", 2)",
+			"window.open_file(\"/home/matrix/Рабочий стол/for yarmap quest/test/chat/component.php\", sublime.ENCODED_POSITION)",
+			"window.open_file(\"/home/matrix/Рабочий стол/for yarmap quest/test/chat/component.php\", 300)",
+			"window.open_file(\"/home/matrix/Рабочий стол/for yarmap quest/test/chat/component.php\", sublime.ENCODED_POSITION)",
+			"window.open_file(\"/home/matrix/Рабочий стол/for yarmap quest/test/chat/component.php\", 300)",
+			"window.open_file(\"/home/matrix/Рабочий стол/for yarmap quest/test/chat/component.php\", sublime.ENCODED_POSITION)",
+			"sublime.ENCODED_POSITION",
+			"window.",
+			"window",
+			"window.open_file(\"/home/matrix/Рабочий стол/for yarmap quest/test/chat/component.php\")",
+			"window.open_file(\"/home/matrix/Рабочий стол/for yarmap quest/test/chat/im.ajax.php\")",
+			"window.open_file(\"/chat/im.ajax.php\")",
+			"window.open_file(\"../chat/im.ajax.php\")",
+			"window.open_file(\"im.ajax.php\")",
+			"window.open_file(\"chat/im.ajax.php\")",
+			"open_file(\"templates/.default/template.php\")",
+			"window.open_file(\"templates/.default/template.php\")",
+			"window.open_file(\"/templates/.default/template.php\")",
+			"window.open_file(\"/test/chat/im.ajax.php\")",
+			"window.open_file(\"//chat/im.ajax.php\")",
+			"window.open_file(\"/chat/im.ajax.php\")",
+			"window.open_file(\"/chat/\")",
+			"window.open_file(\"templates/.default/template.php\")",
+			"window.open_file(\"component.php\")",
+			"window.open_file(\"/test/chat/component.php\")",
+			"window.open_file(\"/test/chat/component.php\", 0)",
+			"window.open_file(\"/chat/component.php\", 0)",
+			"window.open_file(chat/component.php, 0)",
+			"window.open_file(chat/component.php)",
+			"window.open_file(/chat/component.php)",
+			"window.open_file",
+			"import sublime, sublime_plugin",
+			"include()",
+			"include",
+			"imclude",
+			"SFTP",
+			"SFTP\\asdasd",
+			"SFTP/asd",
+			"SFTP/",
+			"sftp/browse_remote",
+			"sftp\\browse_remote()",
+			"sftp\\browse_remote",
+			"sftp/browse_remote",
+			"sftp_browse_remote()",
+			"sftp_browse_remote",
+			"sftp",
+			"git_status()",
+			"git_status",
+			"git",
+			"sublime.Edit(1)",
+			"sublime.Edit(1).r",
+			"sublime.Edit(1).regex",
+			"sublime.Edit(1).regexp",
+			"sublime.Edit(1).reexp",
+			"sublime.Edit(1).text"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/matrix/desktop/just mine/some js/terraria_clone"
+	],
+	"file_history":
+	[
+		"/home/matrix/desktop/just mine/some js/terraria_clone/index.html",
+		"/home/matrix/desktop/for humor quest/site/ends/index.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/chat/im.ajax.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/ends.begin.detail/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/ends.begin.detail/component_epilog.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/double.simple.list/templates/ends.begin.detail/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/double.simple.list/templates/ends.begin.detail/component_epilog.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/double.simple.list/templates/ends.begin.detail/result_modifier.php",
+		"/home/matrix/desktop/for humor quest/site/html/finish_inside/index.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/text_pics.add.form/templates/shorts/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/text_pics.add.form/component.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/demotivators/templates/.default/element.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/double.simple.list/templates/ends.list/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/php_interface/init.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.complex/templates/.default/sharedPart.header.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/text_pics.complex/templates/.default/header.list.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/ends.complex/templates/.default/new.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/ends.complex/templates/.default/parameters.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/ends.sidebar/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/demotivator.sidebar/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/demotivator.sidebar/component_epilog.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/ends.sidebar/component_epilog.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/ends.sidebar/result_modifier.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/demotivator.detail/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/demotivator.detail/component_epilog.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/demotivator.detail/result_modifier.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.complex/templates/.default/user.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/ends.begin.detail/result_modifier.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/demotivators/templates/.default/header.detail.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/ends.complex/templates/.default/footer.detail.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/ends.complex/templates/.default/header.detail.php",
+		"/home/matrix/desktop/for humor quest/site/html/demo/index.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/header.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.friends/component.php",
+		"/home/matrix/desktop/for humor quest/site/sftp-config.json",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/js/react/app/src/chat/components/message.es6.js",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/js/react/app/src/chat/containers/message.es6.js",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/js/react/app/src/chat/components/item.detail.es6.js",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/js/react/app/src/chat/containers/list.es6.js",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/js/react/app/src/chat/reducers/activateChat.js",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.details/templates/.default/template.php",
+		"/home/matrix/desktop/for humor quest/site/html/todo_me/index.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.details/component.php",
+		"/home/matrix/desktop/for humor quest/site/html/todo_you/index.php",
+		"/home/matrix/desktop/for humor quest/site/html/todo/index.php",
+		"/home/matrix/desktop/for humor quest/site/html/personal/index.php",
+		"/tmp/sublime-sftp-browse-1508735311/mapped/bitrix/modules/socialnetwork/include.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.friends/templates/list/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.complex/templates/.default/friends.php",
+		"/tmp/sublime-sftp-browse-1508391959/mapped/bitrix/modules/iblock/lib/iblock.php",
+		"/tmp/sublime-sftp-browse-1508388004/mapped/bitrix/modules/main/lib/user.php",
+		"/tmp/sublime-sftp-browse-1508389583/yarmap/var/www/html/bitrix/components/alfateam/mainpage.list/component.php",
+		"/tmp/sublime-sftp-browse-1508389528/yarmap/var/www/html/bitrix/components/alfateam/search.suggest.input.HL/functions.php",
+		"/tmp/sublime-sftp-browse-1508389483/yarmap/var/www/html/bitrix/components/alfateam/search.suggest.input.HL/component.php",
+		"/tmp/sublime-sftp-browse-1508387532/mapped/bitrix/modules/main/lib/userfield.php",
+		"/tmp/sublime-sftp-browse-1508304086/mapped/bitrix/modules/main/lib/user.php",
+		"/tmp/sublime-sftp-browse-1508219171/pokrov_release/httpdocs/removeNeedlessFiles/index.php",
+		"/tmp/sublime-sftp-browse-1508216304/sand/cashbox/index.html",
+		"/tmp/sublime-sftp-browse-1508219225/pokrov_release/httpdocs/clear_files.php",
+		"/tmp/sublime-sftp-browse-1508233376/sand/cashbox/index.html",
+		"/home/matrix/.config/sublime-text-3/Packages/User/sftp_servers/pokrov_release",
+		"/tmp/sublime-sftp-browse-1508219191/pokrov_release/httpdocs/test.php",
+		"/tmp/sublime-sftp-browse-1508215961/sand/cashbox/names.js",
+		"/tmp/sublime-sftp-browse-1508216993/sand/cashbox/test.php",
+		"/tmp/sublime-sftp-browse-1508217014/sand/cashbox/names.php",
+		"/tmp/sublime-sftp-browse-1508215387/vitma_alfateam/local/templates/main/components/bitrix/sale.order.ajax/custom/order_ajax.js",
+		"/tmp/sublime-sftp-browse-1508216126/vitma_alfateam/local/templates/main/components/bitrix/system.auth.registration/.default/template.php",
+		"/tmp/sublime-sftp-browse-1508215309/vitma_alfateam/local/templates/main/components/bitrix/sale.order.ajax/custom/template.php",
+		"/home/matrix/.config/sublime-text-3/Packages/User/sftp_servers/sand",
+		"/tmp/sublime-sftp-browse-1508215252/vitma/http/local/templates/main/components/bitrix/sale.order.ajax/custom/template.php",
+		"/tmp/sublime-sftp-browse-1508216177/vitma/http/local/templates/main/components/bitrix/system.auth.form/.default/template.php",
+		"/tmp/sublime-sftp-browse-1508216076/vitma/http/local/templates/main/components/bitrix/system.auth.registration/.default/template.php",
+		"/tmp/sublime-sftp-browse-1508215650/vitma/http/local/templates/main/footer.php",
+		"/tmp/sublime-sftp-browse-1508215822/vitma_alfateam/local/templates/main/footer.php",
+		"/tmp/sublime-sftp-browse-1508215377/vitma/http/local/templates/main/components/bitrix/sale.order.ajax/custom/order_ajax.js",
+		"/home/matrix/.config/sublime-text-3/Packages/User/sftp_servers/vitma",
+		"/home/matrix/.config/sublime-text-3/Packages/User/sftp_servers/vitma_alfateam",
+		"/home/matrix/desktop/for humor quest/site/profile/index.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.friends/templates/.default/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.complex/templates/.default/frinds.php",
+		"/home/matrix/desktop/for humor quest/site/html/friends/index.php",
+		"/home/matrix/desktop/for humor quest/site/ajax/settings.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.complex/templates/.default/settings.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/f.user/templates/friends/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/js/main.js",
+		"/tmp/sublime-sftp-browse-1508130943/mapped/bitrix/modules/main/lib/user.php",
+		"/home/matrix/desktop/for humor quest/site/ajax/battles.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.complex/component.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.photo/component.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.complex/templates/.default/chat.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/chat/templates/.default/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.photo/templates/.default/template.php",
+		"/tmp/sublime-sftp-browse-1508126920/reeltory/bitrix/components/alfateam/chat/templates/.default/template.php",
+		"/tmp/sublime-sftp-browse-1508127142/reeltory/bitrix/templates/main/js/alfachat.js",
+		"/home/matrix/.config/sublime-text-3/Packages/User/sftp_servers/reeltory",
+		"/tmp/sublime-sftp-browse-1508127393/reeltory/bitrix/templates/main/js/jquery.template/templ/private_user.htm",
+		"/home/matrix/desktop/for humor quest/site/ajax/socnet.php",
+		"/home/matrix/desktop/for humor quest/site/register/index.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/blog/template.php",
+		"/home/matrix/desktop/for humor quest/site/html/preference/index.php",
+		"/home/matrix/desktop/for humor quest/site/ajax/comments.php",
+		"/home/matrix/desktop/for humor quest/site/ajax/blog.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/blog/result_modifier.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/component.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/f.post/templates/wall_post/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.blog/templates/.default/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/simple.list/templates/text/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/text_pics.complex/templates/.default/parameters.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/text_pics.complex/templates/.default/hot.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.blog/component.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.tape/component.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.user.tape/templates/.default/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/f.post/class.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/socnet.complex/templates/.default/blog.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/battles.complex/templates/.default/parameters.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/battles.complex/component.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/threads.complex/templates/.default/parameters.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/demotivators/templates/.default/parameters.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/components/bitrix/menu/sort/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/components/bitrix/menu/header/template.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/templates/main/components/bitrix/system.auth.form/.default/template.php",
+		"/tmp/sublime-sftp-browse-1507636642/padawan/MKMatriX/xml/parser.php",
+		"/tmp/sublime-sftp-browse-1507636227/padawan/MKMatriX/xml/index.php",
+		"/home/matrix/desktop/for humor quest/site/bitrix/components/alfateam/comments.add/component.php",
+		"/home/matrix/desktop/for humor quest/site/.header.menu.php",
+		"/tmp/sublime-sftp-browse-1507546044/vitma_alfateam/local/templates/main/footer.php",
+		"/tmp/sublime-sftp-browse-1507545036/vitma_alfateam/privacypolicy/index.php",
+		"/tmp/sublime-sftp-browse-1507547646/vitma_alfateam/include/personal_privacy.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100",
+			"500",
+			"width",
+			"x",
+			"start",
+			"blockSize",
+			"x",
+			"height",
+			"center"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1114,
+								1114
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1116,
+										1117
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1103,
+										1104
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1116,
+										1117
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1103,
+										1104
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/babel-sublime/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 440.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 192.0
+	},
+	"output.git-commit":
+	{
+		"height": 129.0
+	},
+	"output.git-init":
+	{
+		"height": 112.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.reg_replace":
+	{
+		"height": 243.0
+	},
+	"output.sftp":
+	{
+		"height": 307.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 400.0
+	},
+	"pinned_build_system": "",
+	"project": "jm_terraria.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"endscomele",
+				"bitrix/components/alfateam/ends.complex/templates/.default/element.php"
+			],
+			[
+				"endsnew",
+				"bitrix/components/alfateam/ends.complex/templates/.default/new.php"
+			],
+			[
+				"demoeleme",
+				"bitrix/components/alfateam/demotivators/templates/.default/element.php"
+			],
+			[
+				"finish_ini",
+				"html/finish_inside/index.php"
+			],
+			[
+				"endsele",
+				"bitrix/components/alfateam/ends.complex/templates/.default/element.php"
+			],
+			[
+				"invoi",
+				"bitrix/modules/crm/lib/invoice.php"
+			],
+			[
+				"insta",
+				"local/modules/alfateam_meetup/install/db/mysql/install.sql"
+			],
+			[
+				"meetab",
+				"local/modules/alfateam_meetup/lib/meetupTable.php"
+			],
+			[
+				"gues",
+				"local/modules/alfateam_meetup/lib/guestTable.php"
+			],
+			[
+				"guest",
+				"local/modules/alfateam_meetup/lib/guestTable.php"
+			],
+			[
+				"ins",
+				"local/modules/alfateam_meetup/install/db/mysql/install.sql"
+			],
+			[
+				"progre",
+				"local/js/meetup/progress_control.js"
+			],
+			[
+				"include",
+				"local/modules/alfateam_meetup/include.php"
+			],
+			[
+				"install",
+				"local/modules/alfateam_meetup/install/db/mysql/install.sql"
+			],
+			[
+				"mee",
+				"local/modules/alfateam_meetup/lib/meetupTable.php"
+			],
+			[
+				"apite",
+				"crm/alfa_meetups/apitest.php"
+			],
+			[
+				"lead",
+				"bitrix/modules/crm/lib/lead.php"
+			],
+			[
+				"status",
+				"local/modules/alfateam_meetup/lib/statusTable.php"
+			],
+			[
+				"statu",
+				"local/modules/alfateam_meetup/lib/statusTable.php"
+			],
+			[
+				"api",
+				"crm/alfa_meetups/apitest.php"
+			],
+			[
+				"gue",
+				"local/modules/alfateam_meetup/lib/guestTable.php"
+			],
+			[
+				"alfa",
+				"crm/alfa_meetups/apitest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/.config/sublime-text-3/Packages/User/projects/griffin.sublime-project"
+			],
+			[
+				"gri",
+				"~/.config/sublime-text-3/Packages/User/projects/griffin.sublime-project"
+			],
+			[
+				"gr",
+				"~/.config/sublime-text-3/Packages/User/projects/griffin.sublime-project"
+			],
+			[
+				"sap",
+				"~/.config/sublime-text-3/Packages/User/projects/sapfir.sublime-project"
+			],
+			[
+				"hum",
+				"~/desktop/for humor quest/site/humor.sublime-project"
+			],
+			[
+				"humo",
+				"~/Рабочий стол/for humor quest/site/humor.sublime-workspace"
+			],
+			[
+				"cap",
+				"~/desktop/for capitology quest/site/capitology.sublime-project"
+			],
+			[
+				"re",
+				"~/.config/sublime-text-3/Packages/User/projects/remni.sublime-project"
+			],
+			[
+				"rem",
+				"~/.config/sublime-text-3/Packages/User/projects/remni.sublime-project"
+			],
+			[
+				"tako",
+				"~/.config/sublime-text-3/Packages/User/projects/takoni.sublime-project"
+			],
+			[
+				"ca",
+				"~/desktop/for capitology quest/site/capitology.sublime-project"
+			],
+			[
+				"hu",
+				"~/Рабочий стол/for humor quest/site/humor.sublime-workspace"
+			],
+			[
+				"h",
+				"~/Рабочий стол/for humor quest/site/humor.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 117.0,
+		"last_filter": "getuser",
+		"selected_items":
+		[
+			[
+				"getuser",
+				"getUser"
+			]
+		],
+		"width": 476.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}
